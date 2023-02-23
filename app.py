@@ -10,7 +10,7 @@ def index():
 
 
 @app.route('/about')
-def abiut():
+def about():
     return "About page"
 
 
