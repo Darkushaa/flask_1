@@ -68,6 +68,7 @@ def create_update(id):
             return redirect('/posts')
         except:
             return "При при редактировании статьи произошла ошибка"
+
     # GET
     else:
         return render_template("posts_update.html", article=article)
