@@ -1,2 +1,2 @@
-# Flask_site_example_2
+# Flask
 channel: Gosha Dudar course: Learning Flask for Beginners / Building a Website with Python
